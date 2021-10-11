@@ -58,3 +58,24 @@ img{
   width: 550px;
   height: 400px;
 }
+.aims{
+  background-color: #d4f1c5;
+  margin-top: 20px;
+}
+.aims img{
+width: 50px;
+height: 50px;
+position: relative;
+top:10px;
+left: 10px;
+}
+.aims h3{
+  text-align: center;
+  font-size: 48px;
+  color: #102406;
+  font-family: 'Big Shoulders Stencil Display', cursive;
+}
+.aims p, ul {
+  text-align: center;
+  font-family: 'Fugaz One', cursive;
+}
