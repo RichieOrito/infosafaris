@@ -43,7 +43,7 @@ img{
   height:200px;
   position:relative;
   left:50%;
-  top:-22px;
+  top:-50px;
 }
 .part-1 p:nth-child(2){
   position: relative;
@@ -59,7 +59,9 @@ img{
 }
 #trip-helper{
   width: 550px;
-  height: 400px;
+  height: 550px;
+  position: relative;
+  top:20px;
 }
 .aims{
   background-color: #d4f1c5;
@@ -69,7 +71,7 @@ img{
 width: 50px;
 height: 50px;
 position: relative;
-top:10px;
+
 left: 10px;
 }
 .aims h3{
@@ -86,6 +88,7 @@ left: 10px;
 
 .card{
   width: 400px;
+  background-color: #F4EEEB;
 }
 .card-img{
   width:100%;
