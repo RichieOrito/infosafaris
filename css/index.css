@@ -138,6 +138,9 @@ color:white;
 text-align: center;
 text-decoration: overline;
 }
-#vertical-line{
-  border-right: 2px dashed green;
+.office{
+  padding: 0 10% 0 10%;
+  border-right: 2px dashed black;
+  border-left: 2px dashed black;
+  
 }
