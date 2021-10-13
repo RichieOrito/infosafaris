@@ -131,3 +131,13 @@ h1{
 .feature-details .fa {
   margin-right: 5px;
 }
+
+.feature-box {
+  box-shadow: 0 0 10px rgba(37,73214,0.18);
+  margin-bottom: 30px;
+}
+
+.gallery {
+  padding: 100px 0;
+  background:#efefef;
+}
