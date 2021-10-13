@@ -144,3 +144,19 @@ margin: auto  ;
   height: 180px;
   object-fit: cover;
 }
+footer{
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  bottom:-50px;
+  background-color:rgba(196, 196, 196, 0.3) ;
+}
+footer p{
+  font-family: Roboto Mono;
+  font-weight: bold;
+  font-size:24px;
+  color: black;
+}
+footer i{
+  margin-right: 10px;
+}
