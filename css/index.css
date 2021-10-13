@@ -84,7 +84,8 @@ button{
 width:40%;
 }
 .values-images{
-width:60%
+width:60%;
+position: relative;
 }
 #cheetah, #bigfive{
   width:400px;
@@ -92,12 +93,27 @@ width:60%
 }
 #cheetah{
 position: relative;
-top:180px;
+top:230px;
 left:0;
+z-index: 1;
+height: 40vh;
 }
 /* background image relative position */
 #bigfive{
 position: absolute;
 left:20%; 
-top:20px;
+top:0;
+z-index:2;
+}
+.mission{
+  font-family: Roboto;
+}
+.mission h3{
+  font-size: 24px;
+  margin: 0 0 5px 0;
+  text-shadow: 2px 2px 5px #102406;
+}
+.mission p{
+  font-size: 18px;
+  font-family: "Open Sans", Arial, sans-serif;
 }
