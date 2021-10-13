@@ -36,8 +36,7 @@ nav .selected {
     float: right;
 }
 
-
-/* @media screen and (max-width: 870px) {
+@media screen and (max-width: 870px) {
     nav .links {
         float: none;
         display: block;
@@ -46,4 +45,4 @@ nav .selected {
     .rightSection {
         float: none;
     }
-} */
+}
