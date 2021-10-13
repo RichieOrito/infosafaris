@@ -110,6 +110,7 @@ left: 10px;
 footer{
   margin-top:5%;
   background-color: #102406;
+  height: 320px;;
 }
 .footer-flex{
   display: flex;
@@ -129,8 +130,9 @@ footer h3{
 i{
   color: white;
   position: relative;
-  left:40%;
-  margin: 3%
+  left:45%;
+  margin:1% 3% 0 0;
+  top:-100px;
 }
 .logo{
   width:30%;
@@ -143,8 +145,11 @@ i{
 }
 #copyrights{
 color:white;
-text-align: center;
+text-align: right;
 text-decoration: overline;
+position: relative;
+top:-60px;
+font-size: 24px;
 }
 .office{
   padding: 0 10% 0 10%;
