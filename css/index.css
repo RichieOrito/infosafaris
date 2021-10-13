@@ -76,3 +76,28 @@ button{
   font-family: Roboto Mono;
   font-size:24px;
 }
+.values{
+  display: flex;
+  position: relative;
+}
+.mission{
+width:40%;
+}
+.values-images{
+width:60%
+}
+#cheetah, #bigfive{
+  width:400px;
+  height: 300px;;
+}
+#cheetah{
+position: relative;
+top:180px;
+left:0;
+}
+/* background image relative position */
+#bigfive{
+position: absolute;
+left:20%; 
+top:20px;
+}
