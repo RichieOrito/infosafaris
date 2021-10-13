@@ -14,30 +14,17 @@
   color: fff ;
 }
 
-.login-btn {
-  width: 100px;
-  padding:8px 0;
-  outline: none;
-  border: 2px solid #fff;
-  background: transparent;
-  color: #fff;
-  float:right;
-
-}
-
-.header h1
-{
+.header h1 {
   padding-top: 230px ;
   padding-bottom: 0;
   font-size: 55px
 }
 
-.header p{
+.header p {
   margin:18px 0;
 }
 
-.input-group
-{
+.input-group {
   width: 90%; 
   max-width: 500px ;
   border-radius: 30px;
@@ -46,16 +33,14 @@
   padding: 2px;
 }
 
-.form-control
-{
+.form-control {
   border: 0;
   border-radius: 30px 0 0 30px;
   margin: 2px;
   box-shadow: none ;
 }
 
-.input-group-text 
-{
+.input-group-text {
   width: 100px;
   background-image: linear-gradient(#00ff7e, #1f3d90);
   border: 0;
@@ -66,23 +51,20 @@
 }
 
 /*Destinations*/
-.features 
-{
+.features {
   padding: 100px 0;
 }
 
-h1{
+h1 {
   text-align: center;
   padding-bottom: 30px;
 }
 
-.feature-img img
-{
+.feature-img img {
   width: 100px; ;
 }
 
-.price 
-{
+.price {
   width: 50px;
   height: 50px;
   background: #ff5722;
@@ -96,14 +78,12 @@ h1{
 
 }
 
-.feature-img
-{
+.feature-img {
   position: absolute;
 
 }
 
-.rating 
-{
+.rating {
   padding: 3px;
   float: right;
   background: #fff;
@@ -112,8 +92,7 @@ h1{
   position: absolute;
 }
 
-.feature .fa
-{
+.feature .fa {
   font-size: 15px;
   color: #ff5722 ;
 }
@@ -150,12 +129,11 @@ h1{
   transition: 1s;
 }
 
-.gallery-box img:hover{
+.gallery-box img:hover {
   transform: scale(1.1);
 }
 
-.gallery-box h4
-{
+.gallery-box h4 {
   display: block;
   color: #fff;
   text-shadow: -2px 2px 2px #000;
@@ -170,4 +148,48 @@ h1{
 .gallery-box {
   position: relative;
   margin-bottom: 30px;
+}
+
+.banner {
+  height: 80%;
+  background-image: url(/images/lakevictoria.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top:14%;
+
+}
+
+.banner-highlights
+{
+  padding: 70px 0;
+  background: rgba (0,0,0,0.7);
+  text-align: center;
+  color: #fff;
+}
+
+.booking-btn
+{
+  width: 120px;
+  padding: 8px 0;
+  outline:none;
+  border: 2px solid #fff;
+  border-radius: 50px;
+  background: transparent;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.users-feedback {
+  padding: 100px 0;
+}
+
+.user-review {
+  text-align: center;
+  box-shadow: 0 0 10px 0 rgba(100, 100, 212, 0.2);
+  padding-bottom: 50px;
+}
+
+.user-review p {
+  padding: 50px 10px 10px 10px;
 }
