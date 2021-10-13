@@ -114,8 +114,9 @@ footer{
   justify-content: space-evenly;
 }
 footer img{
-  width:50%;
+  width:100%;
   height:50%;
+  margin-left: 0;
 }
 footer p{
   color: #FFAA00;
@@ -133,6 +134,11 @@ i{
   width:30%;
   margin-right:0;
 }
+.logo p{
+  font-family: 'Akronim', cursive;
+  font-size: 40px;
+  color: black;
+}
 #copyrights{
 color:white;
 text-align: center;
@@ -142,5 +148,4 @@ text-decoration: overline;
   padding: 0 10% 0 10%;
   border-right: 2px dashed black;
   border-left: 2px dashed black;
-  
 }
