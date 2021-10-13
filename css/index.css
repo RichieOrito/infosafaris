@@ -77,6 +77,7 @@ button{
   font-size:24px;
 }
 .values{
+  margin: 30px 0 30px 0;
   display: flex;
   position: relative;
 }
@@ -116,4 +117,30 @@ z-index:2;
 .mission p{
   font-size: 18px;
   font-family: "Open Sans", Arial, sans-serif;
+}
+.card img{
+  width: 100%;
+}
+.card-body{
+  text-align: center;
+}
+.team{
+  position: relative;
+  top:50px;
+}
+.team h3{
+  color: #102406;
+  font-size: 48px;
+  text-align: center;
+}
+hr{
+width: 50%;  
+height: 2px;   
+background-color: #102406;
+border-width: 4px;  
+margin: auto  ;
+}
+#grace{
+  height: 180px;
+  object-fit: cover;
 }
