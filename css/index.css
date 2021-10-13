@@ -64,8 +64,10 @@ img{
   top:20px;
 }
 .aims{
-  background-color: #d4f1c5;
+  /* background-color: #d4f1c5; */
   margin-top: 20px;
+  background-image: url(/assets/zebra\ and\ wildbeest.jpg);
+  background-position: cover;
 }
 .aims img{
 width: 50px;
