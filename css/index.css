@@ -54,5 +54,22 @@ button{
   font-size: 24px;
   margin:50px 0 50px 0;
   font-weight: bold;
-
+}
+.who-we-are-flex{
+  display: flex;
+  /* justify-content: space-between; */
+}
+.who-we-are-image,.who-we-are-text{
+  width: 50%;
+}
+.who-we-are-image img{
+  width: 100%;
+}
+.who-we-are h3{
+  color:#102406;
+  font-size: 48px;
+}
+.who-we-are-text{
+  font-family: Roboto Mono;
+  font-size:24px;
 }
