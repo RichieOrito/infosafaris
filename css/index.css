@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav{
+  color: white;
+  background-image: url(/Images/wildbeest.jpg);
+  background-size: contain;
+  }
+.topnav a{
+  color: white;
+  text-decoration: none;
+  font-family: Roboto Mono;
+  padding: 20px;
+  font-size: 24px;
+
+}
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: end;
+}
+.top-about h3{
+  font-family: Roboto Mono;
+  font-size: 64px;
+  text-align: center; 
+  margin: 0;
+}
+.top-about p{
+  text-align: center;
+  font-size: 24px;
+  font-family: Roboto;
+}
+nav h2{
+  font-size: 36px;
+  font-family: Sedan SC;
+  border-bottom: 2px solid white;
+  border-width: 5px;
+  position: absolute;
+  top:-5px;
+  left: 0;
+}
+button{
+  border:2px solid rgba(196, 196, 196, 0.3);
+  padding:20px;
+  position: relative;
+  left:40%;
+  background-color: rgba(196, 196, 196, 0.3);
+  padding-right:100px;
+  padding-left: 100px;
+  border-radius: 50px;
+  color: white;
+  font-size: 24px;
+  margin:50px 0 50px 0;
+  font-weight: bold;
+
+}
