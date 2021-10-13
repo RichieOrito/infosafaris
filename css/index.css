@@ -127,3 +127,7 @@ h1{
   font: weight 600;
   margin-top: 20px;
 }
+
+.feature-details .fa {
+  margin-right: 5px;
+}
