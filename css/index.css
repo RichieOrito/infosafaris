@@ -35,11 +35,18 @@ ul{
 nav h2{
   font-size: 36px;
   font-family: Sedan SC;
-  border-bottom: 2px solid white;
-  border-width: 5px;
   position: absolute;
   top:-5px;
   left: 0;
+}
+.logo hr{
+  position: absolute;
+  top:25px;
+  left: 20px;
+  width: 10%;  
+  height: 2px;   
+  background-color: white;
+  border-width: 4px;  
 }
 button{
   border:2px solid rgba(196, 196, 196, 0.3);
@@ -121,7 +128,11 @@ z-index:2;
 .card{
   border-radius: 10px;
   box-shadow: 0 0 6px #102406 ;
+  cursor: pointer;
 }
+/* .card:hover{
+  transition: rotate(180deg);
+} */
 .card img{
   width: 100%;
 }
@@ -137,7 +148,7 @@ z-index:2;
   font-size: 48px;
   text-align: center;
 }
-hr{
+.team hr{
 width: 50%;  
 height: 2px;   
 background-color: #102406;
@@ -152,7 +163,7 @@ footer{
   display: flex;
   justify-content: space-evenly;
   position: relative;
-  bottom:-50px;
+  bottom:-55px;
   background-color:rgba(196, 196, 196, 0.3) ;
 }
 footer p{
