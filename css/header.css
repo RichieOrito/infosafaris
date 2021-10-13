@@ -4,8 +4,6 @@ nav {
     background: url(/images/img3.jpg)
 }
 
-
-/* 
 .links {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
@@ -19,7 +17,8 @@ nav {
     border-radius: 4px;
 }
 
-nav .logo {
+
+/* nav .logo {
     font-size: 25px;
     font-weight: bold;
 }
