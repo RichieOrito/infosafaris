@@ -27,8 +27,7 @@ nav .links:hover {
     color: rgb(42, 10, 94);
 }
 
-
-/* nav .selected {
+nav .selected {
     background-color: dodgerblue;
     color: white;
 }
@@ -37,7 +36,8 @@ nav .links:hover {
     float: right;
 }
 
-@media screen and (max-width: 870px) {
+
+/* @media screen and (max-width: 870px) {
     nav .links {
         float: none;
         display: block;
