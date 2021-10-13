@@ -9,6 +9,13 @@
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  padding-top: 30px;
-  
+}
+
+.login-btn {
+  width: 100px;
+  padding:8px 0;
+  outline: none;
+  border: 2px solid #fff;
+  background: transparent;
+  color: #fff;
 }
