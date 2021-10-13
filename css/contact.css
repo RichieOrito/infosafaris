@@ -6,8 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
-/* .contact {
+.contact {
     position: relative;
     min-height: 100vh;
     padding: 50px 100px;
@@ -35,7 +34,8 @@
     color: #fff;
 }
 
-.container {
+
+/* .container {
     width: 100%;
     display: flex;
     justify-content: center;
