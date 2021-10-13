@@ -9,6 +9,9 @@
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  padding-top:20px ;
+  text-align: center;
+  color: fff ;
 }
 
 .login-btn {
@@ -18,4 +21,13 @@
   border: 2px solid #fff;
   background: transparent;
   color: #fff;
+  float:right;
+
+}
+
+.header h1
+{
+  padding-top: 200px ;
+  padding-bottom: 0;
+  font-size: 55px
 }
