@@ -196,7 +196,6 @@ h1 {
 }
 
 .user-review p::before {
-  content: '\201d';
   display: block;
   position: absolute;
   font-size: 100px;
