@@ -14,7 +14,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url(/images/img3.jpg);
+    background: url(../images/img3.jpg);
     background-size: cover;
 }
 
