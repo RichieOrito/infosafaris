@@ -5,7 +5,7 @@
 
 .header {
   height: 100%;
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(/images/sutirta-budiman-kjOBqwMUnWw-unsplash.jpg);
+  background-image:url(/images/sutirta-budiman-kjOBqwMUnWw-unsplash.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -83,14 +83,6 @@ h1 {
 
 }
 
-.rating {
-  padding: 3px;
-  float: right;
-  background: #fff;
-  bottom: 1px;
-  right: 0;
-  position: absolute;
-}
 
 .feature .fa {
   font-size: 15px;
@@ -104,7 +96,7 @@ h1 {
 
 .feature-details h4 {
   font: weight 600;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .feature-details .fa {
